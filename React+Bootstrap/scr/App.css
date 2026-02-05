@@ -1,0 +1,11 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.carousel-item {
+  min-height: 250px;
+}
